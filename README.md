@@ -1,10 +1,10 @@
 ## Introduction
 
-Stuff I was tried out to understand the y-combinator. Most of the work was done in `elisp`, but the file is also `clisp` compatible. When using `elisp`, the line
+Stuff I was using while trying to understand the y-combinator. Most of the work was done in `elisp`, but the file is also `clisp` compatible. When using `elisp`, the line
 
     (setq lexical-binding t)
 
-Has to be uncommented in the source file.
+has to be uncommented in the source file.
 
 ## Resources
 
